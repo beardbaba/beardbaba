@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" alt = "gif" src="https://github.com/beardbaba/beardbaba/blob/main/coding%20gif.gif?raw=true" height="175px"/>
+<a href="#"><img width="100%" height="auto" alt = "gif" src="https://github.com/beardbaba/beardbaba/blob/master/coding%20gif.gif?raw=true" height="175px"/>
 </a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Divyank Singh</h1>
@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects will be available soon on  **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects will be available soon on  **[My Portfolio](https://github.com/beardbaba)**
 
 - 📫 How to reach me **divyank596@gmail.com**
 
